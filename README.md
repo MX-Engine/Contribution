@@ -32,16 +32,16 @@ Currently, version 3.0.1 has been released and can work perfectly with almost al
 
 | Num | Mod Name | Steam Portal |
 | --- | --- | --- |
-| 001 | Uncompromising | [https://steamcommunity.com/sharedfiles/filedetails/?id=2039181790](https://steamcommunity.com/sharedfiles/filedetails/?id=2039181790) |
-| 002 | Legion | [https://steamcommunity.com/sharedfiles/filedetails/?id=1392778117](https://steamcommunity.com/sharedfiles/filedetails/?id=1392778117) |
-| 003 | Medal | [https://steamcommunity.com/sharedfiles/filedetails/?id=1909182187](https://steamcommunity.com/sharedfiles/filedetails/?id=1909182187) |
-| 004 | Musha | [https://steamcommunity.com/sharedfiles/filedetails/?id=439115156](https://steamcommunity.com/sharedfiles/filedetails/?id=439115156) |
-| 005 | ElementReaction | [https://steamcommunity.com/sharedfiles/filedetails/?id=2578151314](https://steamcommunity.com/sharedfiles/filedetails/?id=2578151314) |
-| 006 | Architect | [https://steamcommunity.com/sharedfiles/filedetails/?id=2428854303](https://steamcommunity.com/sharedfiles/filedetails/?id=2428854303) |
-| 007 | Insight | [https://steamcommunity.com/sharedfiles/filedetails/?id=2189004162](https://steamcommunity.com/sharedfiles/filedetails/?id=2189004162) |
-| 008 | 伊蕾娜 | [https://steamcommunity.com/sharedfiles/filedetails/?id=2640834455](https://steamcommunity.com/sharedfiles/filedetails/?id=2640834455) |
-| 009 | 小穹 | [https://steamcommunity.com/sharedfiles/filedetails/?id=1638724235](https://steamcommunity.com/sharedfiles/filedetails/?id=1638724235) |
-| 010 | 强化护甲 | [https://steamcommunity.com/sharedfiles/filedetails/?id=2780209976](https://steamcommunity.com/sharedfiles/filedetails/?id=2780209976) |
+| 001 | Uncompromising | [workshop-2039181790](https://steamcommunity.com/sharedfiles/filedetails/?id=2039181790) |
+| 002 | Legion | [workshop-1392778117](https://steamcommunity.com/sharedfiles/filedetails/?id=1392778117) |
+| 003 | Medal | [workshop-1909182187](https://steamcommunity.com/sharedfiles/filedetails/?id=1909182187) |
+| 004 | Musha | [workshop-439115156](https://steamcommunity.com/sharedfiles/filedetails/?id=439115156) |
+| 005 | ElementReaction | [workshop-2578151314](https://steamcommunity.com/sharedfiles/filedetails/?id=2578151314) |
+| 006 | Architect | [workshop-2428854303](https://steamcommunity.com/sharedfiles/filedetails/?id=2428854303) |
+| 007 | Insight | [workshop-2189004162](https://steamcommunity.com/sharedfiles/filedetails/?id=2189004162) |
+| 008 | 伊蕾娜 | [workshop-2640834455](https://steamcommunity.com/sharedfiles/filedetails/?id=2640834455) |
+| 009 | 小穹 | [workshop-1638724235](https://steamcommunity.com/sharedfiles/filedetails/?id=1638724235) |
+| 010 | 强化护甲 | [workshop-2780209976](https://steamcommunity.com/sharedfiles/filedetails/?id=2780209976) |
 
 ### Updates:
 

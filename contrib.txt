@@ -1,0 +1,9 @@
+Main:
+- M0n\ius ;
+- Claire (Mod Icon design) ;
+- @RICK (Mod testing and feature advice contributions) ;
+- @幕夜之下 (Mod debug, and Animation State advice contributions) ;
+
+Steam:
+- @Escape, @Wanly, @Tormound, @603, @Gyde, @蹦二酱, @反叛帝国のガイア様, @唯の小诺 ;
+- @Unseelie_King, @defAK36, @Acatdeft, @Potralia, @Wing_Summer, @Miku (Mod bugs test and report) ;

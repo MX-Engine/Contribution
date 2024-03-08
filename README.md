@@ -6,13 +6,11 @@ Looks like my old guy from guy help to fix this MOD under Engine layer! All repo
 
 V3.1.6: Fixed a related bug which may stuck when pick up heavy item during riding caused by above unofficial update patch. If you still have such issue, `ThePlayer.sg:GoToState("idle")` may help you out.
 
-Enjoy!!!
-
-## [Part of MX_Engine]
+---
 
 The goal of this MOD is to provide an extra slot ability to the game DS/DST from a more deep phase inside the Klei Engine system. Compared to other similar mods, it(MX_Slot) has a more clean and efficient solution to handle the challenges on the equipment system under the current various and gorgeous mods developing environment. In fact, it supports backpack slot from a new prospect that it keeps `EQUIPSLOTS.BODY` for backpack, whereas creates a new slot for other body related equipments such as Armor, Suit, etc. So that, in this mod, we will have no need to worry about backpack related features anymore;
 
-Currently, version 3.0.1 has been released and can work perfectly with almost all third-party charactor mods and has no doubt will become the most popular and powerful slot-mod in near future; it can achive this mainly thanks to my deep traceback to the Klei's Engine, and modify one of the root system function which existed in both DS/DST; it means the [b]MX_Slot[/b] can soon finish the last stage and be prepared to be applied in both DS/DST with bug-free experience when cooperated with other charactor mods; But due to the my limited time and energe, I still here to encourage guys who currently using this mod but has issues with third-party mods can contact the author of these [i]'issued mods'[/i] to leave comments here to make the [b]MX_Slot[/b], in return, I will annouce those mod's legality in MX_Engine and keep supporting those mods with no features left;
+Currently, version 3.0.1 has been released and can work perfectly with almost all third-party charactor mods and has no doubt will become the most popular and powerful slot-mod in near future; it can achive this mainly thanks to my deep traceback to the Klei's Engine, and modify one of the root system function which existed in both DS/DST; it means the **MX_Slot** can soon finish the last stage and be prepared to be applied in both DS/DST with bug-free experience when cooperated with other charactor mods; But due to the my limited time and energe, I still here to encourage guys who currently using this mod but has issues with third-party mods can contact the author of these `issued mods` to leave comments here to make the **MX_Slot**, in return, I will annouce those mod's legality in MX_Engine and keep supporting those mods with no features left;
 
 ### Native features including
 

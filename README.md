@@ -32,16 +32,16 @@ Currently, version 3.0.1 has been released and can work perfectly with almost al
 
 | Num | Mod Name | Steam Portal |
 | --- | --- | --- |
-| 001 | Uncompromising | [spoiler][https://steamcommunity.com/sharedfiles/filedetails/?id=2039181790](https://steamcommunity.com/sharedfiles/filedetails/?id=2039181790)[/spoiler] |
-| 002 | Legion | [spoiler][https://steamcommunity.com/sharedfiles/filedetails/?id=1392778117](https://steamcommunity.com/sharedfiles/filedetails/?id=1392778117)[/spoiler] |
-| 003 | Medal | [spoiler][https://steamcommunity.com/sharedfiles/filedetails/?id=1909182187](https://steamcommunity.com/sharedfiles/filedetails/?id=1909182187)[/spoiler] |
-| 004 | Musha | [spoiler][https://steamcommunity.com/sharedfiles/filedetails/?id=439115156](https://steamcommunity.com/sharedfiles/filedetails/?id=439115156)[/spoiler] |
-| 005 | ElementReaction | [spoiler][https://steamcommunity.com/sharedfiles/filedetails/?id=2578151314](https://steamcommunity.com/sharedfiles/filedetails/?id=2578151314)[/spoiler] |
-| 006 | Architect | [spoiler][https://steamcommunity.com/sharedfiles/filedetails/?id=2428854303](https://steamcommunity.com/sharedfiles/filedetails/?id=2428854303)[/spoiler] |
-| 007 | Insight | [spoiler][https://steamcommunity.com/sharedfiles/filedetails/?id=2189004162](https://steamcommunity.com/sharedfiles/filedetails/?id=2189004162)[/spoiler] |
-| 008 | 伊蕾娜 | [spoiler][https://steamcommunity.com/sharedfiles/filedetails/?id=2640834455](https://steamcommunity.com/sharedfiles/filedetails/?id=2640834455)[/spoiler] |
-| 009 | 小穹 | [spoiler][https://steamcommunity.com/sharedfiles/filedetails/?id=1638724235](https://steamcommunity.com/sharedfiles/filedetails/?id=1638724235)[/spoiler] |
-| 010 | 强化护甲 | [spoiler][https://steamcommunity.com/sharedfiles/filedetails/?id=2780209976](https://steamcommunity.com/sharedfiles/filedetails/?id=2780209976)[/spoiler] |
+| 001 | Uncompromising | [https://steamcommunity.com/sharedfiles/filedetails/?id=2039181790](https://steamcommunity.com/sharedfiles/filedetails/?id=2039181790) |
+| 002 | Legion | [https://steamcommunity.com/sharedfiles/filedetails/?id=1392778117](https://steamcommunity.com/sharedfiles/filedetails/?id=1392778117) |
+| 003 | Medal | [https://steamcommunity.com/sharedfiles/filedetails/?id=1909182187](https://steamcommunity.com/sharedfiles/filedetails/?id=1909182187) |
+| 004 | Musha | [https://steamcommunity.com/sharedfiles/filedetails/?id=439115156](https://steamcommunity.com/sharedfiles/filedetails/?id=439115156) |
+| 005 | ElementReaction | [https://steamcommunity.com/sharedfiles/filedetails/?id=2578151314](https://steamcommunity.com/sharedfiles/filedetails/?id=2578151314) |
+| 006 | Architect | [https://steamcommunity.com/sharedfiles/filedetails/?id=2428854303](https://steamcommunity.com/sharedfiles/filedetails/?id=2428854303) |
+| 007 | Insight | [https://steamcommunity.com/sharedfiles/filedetails/?id=2189004162](https://steamcommunity.com/sharedfiles/filedetails/?id=2189004162) |
+| 008 | 伊蕾娜 | [https://steamcommunity.com/sharedfiles/filedetails/?id=2640834455](https://steamcommunity.com/sharedfiles/filedetails/?id=2640834455) |
+| 009 | 小穹 | [https://steamcommunity.com/sharedfiles/filedetails/?id=1638724235](https://steamcommunity.com/sharedfiles/filedetails/?id=1638724235) |
+| 010 | 强化护甲 | [https://steamcommunity.com/sharedfiles/filedetails/?id=2780209976](https://steamcommunity.com/sharedfiles/filedetails/?id=2780209976) |
 
 ### Updates:
 
